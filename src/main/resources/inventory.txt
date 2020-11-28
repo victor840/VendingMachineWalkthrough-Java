@@ -1,0 +1,4 @@
+A1 | Sour Patch Kids | 1.25 | Candy
+A2 | Coke | 1.00 | Beverages
+A3 | Spearmint | 1.00 | Gum
+A4 | Cheetos | 0.50 | Chips
